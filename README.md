@@ -1,5 +1,7 @@
 # Privacy Policy
 
+[German](https://github.com/vpht1/xorofit/blob/main/README_DE.md)
+
 The app XORO Fit was developed as a free app. This service is intended to be used as is. This page is used to provide information regarding our policies with the collection, use and disclosure of personal information in the event that someone has decided to use our service.
 
 By choosing to use this service, you consent to the collection and use of information relating to this policy. The collected personal data is used to provide and improve the service. We will not use your data or share it to third parties, except as described in this privacy policy. The terms used in this Privacy Policy have the same meaning as in our General Privacy Policy, which is accessible in the app, unless otherwise defined in this data protection declaration. 
