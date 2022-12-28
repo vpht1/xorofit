@@ -15,7 +15,7 @@ Die App verwendet Dienste von Drittanbietern, die Informationen sammeln können,
 
 Link zur Datenschutzerklärung von Drittanbietern, die von der App verwendet werden 
 
-* Google Play Services
+[Google Play Services](https://www.google.com/policies/privacy/)
 
 #### Haftungsausschluss
 
