@@ -15,7 +15,7 @@ The app uses third party services that can collect information that is used to i
 
 Link to the privacy policy of third parties used by the app
 
-* Google Play Services
+[Google Play Services](https://www.google.com/policies/privacy/)
 
 ### Disclaimer of liability
 
@@ -31,7 +31,7 @@ Our service does not explicitly use these "cookies". However, the app may use th
 
 We can employ third-party companies and private individuals for the following reasons:
 
-* to facilitate our service,
+*  to facilitate our service,
 *  to provide the service on our behalf,
 *  to provide service-related services or
 *  to support us in analyzing the use of our service.
