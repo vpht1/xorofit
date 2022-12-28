@@ -1,3 +1,5 @@
+# XORO Fit Application Privacy Policy 
+
 ### Datenschutzbestimmungen
 
 Die XORO Fit App wurde als kostenlose App entwickelt. Dieser Dienst ist zur Verwendung in vorhandener Form bestimmt.
