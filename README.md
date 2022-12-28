@@ -1,4 +1,4 @@
-# Privacy Policy
+# XORO Fit Application Privacy Policy 
 
 [German](https://github.com/vpht1/xorofit/blob/main/README_DE.md)
 
